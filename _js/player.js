@@ -10,7 +10,7 @@ function playPause(){
 }
 
 function maxVolume(){
-    video.volume += 0.2;
+    video.volume += 0.1;
 }
 
 function minVolume(){
