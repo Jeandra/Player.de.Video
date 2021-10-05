@@ -1,2 +1,2 @@
-# Player.de.Video
- player de video controlado por JavaScript
+# Player de Video
+ player de video controlado por JavaScript.
