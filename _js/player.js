@@ -10,11 +10,11 @@ function playPause(){
 }
 
 function maxVolume(){
-    video.volume += 0.1;
+    video.volume += 0.2;
 }
 
 function minVolume(){
-    video.volume -= 0.2;
+    video.volume -= 0.1;
 }
  function mudo (){
      video.volume = 0.0;
