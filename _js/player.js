@@ -14,7 +14,7 @@ function maxVolume(){
 }
 
 function minVolume(){
-    video.volume -= 0.1;
+    video.volume -= 0.2;
 }
  function mudo (){
      video.volume = 0.0;
